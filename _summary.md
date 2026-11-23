@@ -21,3 +21,7 @@
 פיגמה: ההעברה נעצרה בגלל מכסת הפעולות של התוכנית החינמית. האפשרות שנבחרה היא ייבוא דרך התוסף html.to.design, והיא עוד לא הושלמה.
 
 הטופס עדיין לא מחובר לשום שירות שליחה.
+
+קישור חי (GitHub Pages, עם noindex): https://sagitnz.github.io/digitalmap-merged-site/
+מאגר (ציבורי): https://github.com/sagitnz/digitalmap-merged-site
+גיבוי ZIP בגוגל דרייב: 2026-11-23-digitalmap-merged-backup.zip
